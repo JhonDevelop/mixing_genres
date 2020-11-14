@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="MixingGenres"
+run/main_scene="res://scenes/Level_1.tscn"
 config/icon="res://icon.png"
 
 [display]
