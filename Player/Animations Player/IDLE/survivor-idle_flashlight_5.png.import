@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/survivor-idle_flashlight_8.png-f0b10a33b2c5c0bccf90a729e067177e.stex"
+path="res://.import/survivor-idle_flashlight_5.png-9591b196ca5fcd776ec4e741fa12448d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprite/survivor-idle_flashlight_8.png"
-dest_files=[ "res://.import/survivor-idle_flashlight_8.png-f0b10a33b2c5c0bccf90a729e067177e.stex" ]
+source_file="res://Player/Animations Player/IDLE/survivor-idle_flashlight_5.png"
+dest_files=[ "res://.import/survivor-idle_flashlight_5.png-9591b196ca5fcd776ec4e741fa12448d.stex" ]
 
 [params]
 
